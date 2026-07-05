@@ -1,8 +1,8 @@
 {
-  "name": "Ludus Verborum - Latijnse Werkwoordstrainer",
-  "short_name": "Ludus Verborum",
+  "name": "applicatio pro snuifo",
+  "short_name": "applicatio pro snuifo",
   "description": "Toets en verbeter je kennis van Latijnse werkwoorden (Praesens, Imperfectum, Perfectum en Plusquamperfectum) uit de lesmethode SPQR.",
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#080C1E",
   "theme_color": "#080C1E",
